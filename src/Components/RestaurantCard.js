@@ -13,7 +13,7 @@ let url= `${frontUrl}${cloudinaryImageId}`
           <p>{avgRating}</p>
           <p> {costForTwo}</p>
 
-          <p>{locality}</p>
+      
         </div>
     )
 }
